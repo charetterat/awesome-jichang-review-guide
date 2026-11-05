@@ -1,4 +1,4 @@
-# 机场测评避坑清单：评测方法论、真实风险信号与验证工具 (updated 2026-11-04)
+# 机场测评避坑清单：评测方法论、真实风险信号与验证工具 (updated 2026-11-05)
 
 > 56 家机场一手流程记录沉淀出的测评框架：先验什么、再测什么、哪些宣传直接跳过
 
@@ -65,7 +65,7 @@
 
 - **17** entries across **4** sections.
 - Compiled from public sources; every linked project carries its own license.
-- Last updated: **2026-11-04**.
+- Last updated: **2026-11-05**.
 - Data lives in `data/content.json` — this README is generated, do not edit by hand.
 
 ## License
